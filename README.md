@@ -9,7 +9,7 @@ Kelas = B
 =======================================================================
 
 Berikut merupakan tugas tentang membuat dictionary sebuah buku dan menerapkan konsep CRUD (create, read, update, delete).
-Program ini dibuat untuk mengelola data buku dalam dictionary di python. data buku terdiri dari Judul, Penulis dan Tahun Terbit.
+Program ini dibuat untuk mengelola data buku dalam dictionary di python, data buku terdiri dari Judul, Penulis dan Tahun Terbit.
 Program dirancang dengan menggunakan perulangan While agar menu dapat dipilih berulang kali sampai kita memilih untuk selesai.
 
 Fitur yang digunakan dalam program ini meliputi:
